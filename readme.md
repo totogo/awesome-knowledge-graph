@@ -73,14 +73,22 @@
 ## Knowledge Graph Content
 
 ### General
+
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Wikidata is a free, collaborative, multilingual, secondary database, collecting structured data to provide support for Wikipedia, Wikimedia Commons, the other wikis of the Wikimedia movement, and to anyone in the world.
 * [Google Knowledge Graph](https://developers.google.com/knowledge-graph/) - Google’s Knowledge Graph has millions of entries that describe real-world entities like people, places, and things.
 * [DBpedia](https://wiki.dbpedia.org/) - DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.
+* [XLore](https://xlore.org/) - A large-scale English-Chinese bilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French Wikipedia, and Baidu Baike. 
 
 ### Semantic Network
 
 * [ConceptNet](http://conceptnet.io/) - ConceptNet is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
 * [Microsoft Concept Graph](https://concept.research.microsoft.com/) - For Short Text Understanding
+* [OpenHowNet](https://openhownet.thunlp.org) - An Open Sememe-based Lexical Knowledge Base
+
+### Academic
+
+* [AMiner](https://www.aminer.cn/) - Aminer aims to provide comprehensive search and mining services for researcher social networks.
+* [Microsoft Academic](https://academic.microsoft.com/) - Microsoft Academic (MA) employs advances in machine learning, semantic inference and knowledge discovery to help you explore scholarly information in more powerful ways than ever before.
 
 ## Learning Materials
 

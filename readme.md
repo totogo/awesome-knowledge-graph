@@ -13,6 +13,7 @@
 * [Knowledge Graph Content](#knowledge-graph-content)
   * [General](#general)
   * [Semantic Network](#semantic-network)
+  * [Academic](#academic)
 * [Learning Materials](#learning-materials)
   * [Official Documentations](#official-documentations)
   * [Community Effort](#community-effort)

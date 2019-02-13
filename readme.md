@@ -64,9 +64,10 @@
 * [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
 * [JanusGraph @ Google Cloud Platform](https://cloud.google.com/solutions/running-janusgraph-with-bigtable) - JanusGraph on Google Kubernetes Engine backed by Google Cloud Bigtable
-* [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend)
+* [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph
 * [Neo4j @ Graphene](https://www.graphenedb.com/)
 * [Neptune @ Amazon Web Services](https://aws.amazon.com/neptune/) - a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets
+* [Graph Engine Service @ Huawei Cloud](https://www.huaweicloud.com/en-us/product/ges.html) - Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
 
 ## Knowledge Graph Content
 
@@ -99,8 +100,8 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-Some of the content were copied from other awesome lists:
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.  
+Some of the content were copied from other awesome lists:  
 
 * [awesome-graph](https://github.com/jbmusso/awesome-graph) - Graph, the infrastructure for Knowledge Graph
 * [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) - Knowledge graph related materials but all in Chinese

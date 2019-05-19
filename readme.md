@@ -70,6 +70,7 @@
 * [Neo4j @ Graph Story](https://www.graphstory.com/) - End-to-end Graph Database hosting for Community and Enterprise Neo4j with expert help for development
 * [Neptune @ Amazon Web Services](https://aws.amazon.com/neptune/) - a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets
 * [Graph Engine Service @ Huawei Cloud](https://www.huaweicloud.com/en-us/product/ges.html) - Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
+* [Graph Database (beta) @ Aliyun (Alibaba Cloud)](https://www.aliyun.com/product/gdb) - highly reliable and available property graph database that supports ACID and TinkerPop Gremlin query language. 
 
 ## Knowledge Engineering
 

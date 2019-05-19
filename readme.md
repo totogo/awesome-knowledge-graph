@@ -38,6 +38,7 @@
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
+* [TigerGraph](https://www.tigergraph.com) - a complete, distributed, parallel graph computing platform for enterprise, supporting web-scale data analytics in real-time. 
 
 ### Triple Stores
 

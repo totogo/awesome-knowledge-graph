@@ -8,9 +8,10 @@
   * [Graph Databases](#graph-databases)
   * [Triple Stores](#triple-stores) 
   * [Graph Computing Frameworks](#graph-computing-frameworks)
+  * [Graph Visualization](#graph-visualization)
   * [Languages](#languages)
   * [Managed Hosting Services](#managed-hosting-services)
-* [Knowledge Graph Content](#knowledge-graph-content)
+* [Knowledge Graph Dataset](#knowledge-graph-dataset)
   * [General](#general)
   * [Semantic Network](#semantic-network)
   * [Academic](#academic)
@@ -54,6 +55,10 @@
 * [Apache Giraph](https://giraph.apache.org/) - an iterative graph processing system built for high scalability
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
+
+### Graph Visualization
+
+* [AntV G6](https://github.com/antvis/g6) - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 
 ### Languages
 

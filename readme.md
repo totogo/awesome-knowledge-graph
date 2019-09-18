@@ -19,7 +19,6 @@
   * [Official Documentations](#official-documentations)
   * [Community Effort](#community-effort)
 
-
 ## Infrastructure
 
 ### Graph Databases
@@ -65,6 +64,8 @@
 * [Cypher](http://www.opencypher.org/)
 * [Gremlin](https://tinkerpop.apache.org/gremlin.html)
 * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
+* [GraphQL+-](https://docs.dgraph.io/query-language/) - The query language of Dgraph, which is based on Facebook's GraphQL
+* [GQL](https://gql.today/) - An initiative to create a standard query language for property graph database, just like SQL for relational database. 
 
 ### Managed Hosting Services
 
@@ -79,6 +80,8 @@
 * [Graph Database (beta) @ Aliyun (Alibaba Cloud)](https://www.aliyun.com/product/gdb) - highly reliable and available property graph database that supports ACID and TinkerPop Gremlin query language. 
 
 ## Knowledge Engineering
+
+* [YAGA-NAGA](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/) - Harvesting, Searching, and Ranking Knowledge from the Web
 
 ### Knowledge Fusion
 
@@ -104,7 +107,6 @@
 * [OpenHowNet](https://openhownet.thunlp.org) - An Open Sememe-based Lexical Knowledge Base in Chinese.
 * [WordNet](http://wordnet.princeton.edu/) - A free large lexical database of English from Princeton University.
 
-
 ### Academic
 
 * [AMiner](https://www.aminer.cn/) - Aminer aims to provide comprehensive search and mining services for researcher social networks.
@@ -113,10 +115,12 @@
 ## Learning Materials
 
 ### Official Documentations
+
 * [Cypher](https://neo4j.com/developer/cypher-query-language/) - reference documentation
 * [Gremlin](http://tinkerpop.apache.org/docs/current/reference/#traversal) - reference documentation
 
 ### Community Effort
+
 * [Graph Book](https://github.com/krlawrence/graph) - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
@@ -126,7 +130,6 @@
 * [Graph Connect](http://graphconnect.com/) - powered by Neo4j
 * [Graph Day](http://graphday.com/) - an Independent Graph Conference from the Data Day folks
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.  
@@ -134,9 +137,6 @@ Some of the content were copied from other awesome lists:
 
 * [awesome-graph](https://github.com/jbmusso/awesome-graph) - Graph, the infrastructure for Knowledge Graph
 * [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) - Knowledge graph related materials but all in Chinese
-
-
-
 
 ## License
 

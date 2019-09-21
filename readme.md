@@ -69,7 +69,7 @@
 
 ### Managed Hosting Services
 
-* [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
+* [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - Azure Cosmos DB is Microsoft's globally distributed, multi-model (Key-value, Document, Column, Graph) database service.  
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
 * [JanusGraph @ Google Cloud Platform](https://cloud.google.com/solutions/running-janusgraph-with-bigtable) - JanusGraph on Google Kubernetes Engine backed by Google Cloud Bigtable
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph

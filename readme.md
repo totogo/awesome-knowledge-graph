@@ -11,6 +11,8 @@
   * [Graph Visualization](#graph-visualization)
   * [Languages](#languages)
   * [Managed Hosting Services](#managed-hosting-services)
+* [Knowledge Engineering](#knowledge-engineering)
+  * [Knowledge Fusion](#knowledge-fusion)
 * [Knowledge Graph Dataset](#knowledge-graph-dataset)
   * [General](#general)
   * [Semantic Network](#semantic-network)

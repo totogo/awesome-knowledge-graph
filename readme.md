@@ -56,6 +56,7 @@
 * [Apache Giraph](https://giraph.apache.org/) - an iterative graph processing system built for high scalability
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
+* [Tencent Plato](https://github.com/tencent/plato) - a fast distributed graph computation and machine learning framework used by WeChat. 
 
 ### Graph Visualization
 
@@ -80,6 +81,7 @@
 * [Neptune @ Amazon Web Services](https://aws.amazon.com/neptune/) - a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets
 * [Graph Engine Service @ Huawei Cloud](https://www.huaweicloud.com/en-us/product/ges.html) - Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
 * [Graph Database (beta) @ Aliyun (Alibaba Cloud)](https://www.aliyun.com/product/gdb) - highly reliable and available property graph database that supports ACID and TinkerPop Gremlin query language. 
+* [Tencent Knowledge Graph @ Tencent Cloud](https://cloud.tencent.com/product/tkg) - One stop platform for Graph database, computing and visualization. Currently available in beta test and only in Chinese. 
 
 ## Knowledge Engineering
 

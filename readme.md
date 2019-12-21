@@ -25,7 +25,7 @@
 
 ### Graph Databases
 
-* [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
+* [AgensGraph](https://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support based on PostgreSQL
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
 * [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
@@ -41,6 +41,7 @@
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 * [TigerGraph](https://www.tigergraph.com) - a complete, distributed, parallel graph computing platform for enterprise, supporting web-scale data analytics in real-time. 
+* [Nebula Graph](https://nebula-graph.io/) - A truly distributed, linear scalable, lightning-fast graph database, using SQL-like query language. 
 
 ### Triple Stores
 

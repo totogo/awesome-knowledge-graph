@@ -106,6 +106,7 @@
 * [XLore](https://xlore.org/) - A large-scale English-Chinese bilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French Wikipedia, and Baidu Baike. 
 * [The GDELT Project](https://www.gdeltproject.org/) - The GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society  every second of every day, creating a free open platform for computing on the entire world.
 * [YAGO](http://yago-knowledge.org/) - A huge semantic knowledge base, derived from [Wikipedia](http://en.wikipedia.org/),  [WordNet](http://wordnet.princeton.edu/) and [GeoNames](http://www.geonames.org/). Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github [repo](https://github.com/yago-naga/yago3). 
+* [Zhishi.me](http://zhishi.me/) - Knowledge Graph data extracted from the largest Chinese encyclopedias,  [Baidu Baike](https://baike.baidu.com/), [Hudong Baike](https://www.baike.com/) and [Chinese Wikipedia](https://zh.wikipedia.org/).
 
 ### Semantic Network
 

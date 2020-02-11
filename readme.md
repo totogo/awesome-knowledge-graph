@@ -42,6 +42,7 @@
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 * [TigerGraph](https://www.tigergraph.com) - a complete, distributed, parallel graph computing platform for enterprise, supporting web-scale data analytics in real-time. 
 * [Nebula Graph](https://nebula-graph.io/) - A truly distributed, linear scalable, lightning-fast graph database, using SQL-like query language. 
+* [HugeGraph](https://github.com/hugegraph/hugegraph) - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX. 
 
 ### Triple Stores
 
@@ -152,5 +153,4 @@ Some of the content were copied from other awesome lists:
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Sitao Z. has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, Sitao Z. has waived all copyright and related or neighboring rights to this work.

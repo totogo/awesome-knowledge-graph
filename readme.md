@@ -52,6 +52,7 @@
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Hoply](https://github.com/amirouche/hoply/) - explore bigger than RAM relational data in the comfort of Python.
+* [Apache Marmotta](https://marmotta.apache.org/) - an open platform for linked data.
 
 ### Graph Computing Frameworks
 
@@ -87,6 +88,7 @@
 * [Graph Engine Service @ Huawei Cloud](https://www.huaweicloud.com/en-us/product/ges.html) - Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
 * [Graph Database (beta) @ Aliyun (Alibaba Cloud)](https://www.aliyun.com/product/gdb) - highly reliable and available property graph database that supports ACID and TinkerPop Gremlin query language. 
 * [Tencent Knowledge Graph @ Tencent Cloud](https://cloud.tencent.com/product/tkg) - One stop platform for Graph database, computing and visualization. Currently available in beta test and only in Chinese. 
+* [WoordLift](https://wordlift.io/) - Easy-to-use SEO-focused Graph Database hosting for web and e-commerce websites running on Apache Marmotta. 
 
 ## Knowledge Engineering
 

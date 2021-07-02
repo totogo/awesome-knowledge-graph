@@ -43,6 +43,7 @@
 * [TigerGraph](https://www.tigergraph.com) - a complete, distributed, parallel graph computing platform for enterprise, supporting web-scale data analytics in real-time. 
 * [Nebula Graph](https://nebula-graph.io/) - A truly distributed, linear scalable, lightning-fast graph database, using SQL-like query language. 
 * [HugeGraph](https://github.com/hugegraph/hugegraph) - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX. 
+* [Diffbot](https://diffbot.com/products/knowledge-graph) - One of three Western entities to crawl a majority of the web. Largest commercially available knowledge graph. 
 
 ### Triple Stores
 

@@ -53,7 +53,7 @@
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Hoply](https://github.com/amirouche/hoply/) - explore bigger than RAM relational data in the comfort of Python.
-* [Apache Marmotta](https://marmotta.apache.org/) - an open platform for linked data.
+* [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data.
 
 ### Graph Computing Frameworks
 

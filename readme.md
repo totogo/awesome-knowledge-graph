@@ -90,6 +90,7 @@
 * [Graph Database (beta) @ Aliyun (Alibaba Cloud)](https://www.aliyun.com/product/gdb) - highly reliable and available property graph database that supports ACID and TinkerPop Gremlin query language. 
 * [Tencent Knowledge Graph @ Tencent Cloud](https://cloud.tencent.com/product/tkg) - One stop platform for Graph database, computing and visualization. Currently available in beta test and only in Chinese. 
 * [WoordLift](https://wordlift.io/) - Easy-to-use SEO-focused Graph Database hosting for web and e-commerce websites running on Apache Marmotta. 
+* [Baidu Knowledge Graph @ Baidu AI Platform](https://ai.baidu.com/solution/kgaas) - One-stop AI platform to build knowledge graph and its applications. 
 
 ## Knowledge Engineering
 

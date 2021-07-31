@@ -126,6 +126,7 @@
 * [AMiner](https://www.aminer.cn/) - Aminer aims to provide comprehensive search and mining services for researcher social networks.
 * [Microsoft Academic](https://academic.microsoft.com/) - Microsoft Academic (MA) employs advances in machine learning, semantic inference and knowledge discovery to help you explore scholarly information in more powerful ways than ever before.
 * [AceMap](https://www.acemap.info/) - Academic search engine based on knowledge graph which includes entities like paper, author, institution and etc. 
+* [Semantic Scholar](https://www.semanticscholar.org/) - A free, AI-powered research tool for scientific literature. Collaborating with academic publishers to build a trustworthy and authoritative scientific knowledge graph.
 
 ## Learning Materials
 

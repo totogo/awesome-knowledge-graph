@@ -68,7 +68,10 @@
 * [AntV G6](https://github.com/antvis/g6) - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
-* [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform. 
+* [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
+* [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
+* [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
+* [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
 
 ### Languages
 

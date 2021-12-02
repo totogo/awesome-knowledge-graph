@@ -128,6 +128,10 @@
 * [AceMap](https://www.acemap.info/) - Academic search engine based on knowledge graph which includes entities like paper, author, institution and etc. 
 * [Semantic Scholar](https://www.semanticscholar.org/) - A free, AI-powered research tool for scientific literature. Collaborating with academic publishers to build a trustworthy and authoritative scientific knowledge graph.
 
+### Other Domain
+
+* [Lynx](https://lynx-project.eu/) - an ecosystem of smart cloud services to better manage compliance, based on a Legal Knowledge Graph (LKG) which integrates and links heterogeneous compliance data sources including legislation, case law, standards and other private contracts.
+
 ## Learning Materials
 
 ### Official Documentations

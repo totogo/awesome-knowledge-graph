@@ -27,6 +27,7 @@
 
 * [AgensGraph](https://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support based on PostgreSQL
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
+* [Atomic-Server](https://crates.io/crates/atomic-server/) - open-source type-safe graph database server with GUI, written in rust. Supports [Atomic Data](docs.atomicdata.dev/), JSON & RDF.
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
 * [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
 * [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - cloud-based multi-model database with support for TinkerPop3
@@ -67,7 +68,10 @@
 * [AntV G6](https://github.com/antvis/g6) - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
-* [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform. 
+* [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
+* [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
+* [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
+* [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
 
 ### Languages
 

@@ -63,6 +63,7 @@
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
 * [Tencent Plato](https://github.com/tencent/plato) - a fast distributed graph computation and machine learning framework used by WeChat. 
+* [Gradoop](https://github.com/dbs-leipzig/gradoop) - a distributed graph analytics framework based on Apache Flink
 
 ### Graph Visualization
 

@@ -33,7 +33,7 @@
 * [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - cloud-based multi-model database with support for TinkerPop3
 * [Dgraph](https://dgraph.io) - Fast, Transactional, Distributed Graph Database (open source, written in Go)
 * [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)
-* [Grakn.AI](https://grakn.ai/) - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base
+* [TypeDB](https://vaticle.com/) - a database with a rich and logical type system. 
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database

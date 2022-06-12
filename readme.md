@@ -121,6 +121,7 @@
 * [YAGO](http://yago-knowledge.org/) - A huge semantic knowledge base, derived from [Wikipedia](http://en.wikipedia.org/),  [WordNet](http://wordnet.princeton.edu/) and [GeoNames](http://www.geonames.org/). Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github [repo](https://github.com/yago-naga/yago3). 
 * [Zhishi.me](http://zhishi.me/) - Knowledge Graph data extracted from the largest Chinese encyclopedias,  [Baidu Baike](https://baike.baidu.com/), [Hudong Baike](https://www.baike.com/) and [Chinese Wikipedia](https://zh.wikipedia.org/).
 * [NELL](http://rtw.ml.cmu.edu/rtw/) - Never-Ending Language Learner, read the web and extract facts from text found in web pages continuously and improve itself.
+* [Golden Protocol](https://golden.xyz/) - A decentralized canonical knowledge graph. It is open, transparent, consensus, bounty enabled and built in the age of Web 3.
 
 ### Semantic Network
 

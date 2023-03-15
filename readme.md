@@ -54,7 +54,6 @@
 * [Eclipse RDF4J](http://rdf4j.org/) - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
-* [Hoply](https://github.com/amirouche/hoply/) - explore bigger than RAM relational data in the comfort of Python.
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data.
 
 ### Graph Computing Frameworks

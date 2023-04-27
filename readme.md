@@ -9,6 +9,7 @@
   * [Triple Stores](#triple-stores) 
   * [Graph Computing Frameworks](#graph-computing-frameworks)
   * [Graph Visualization](#graph-visualization)
+  * [Graph Construction](#graph-construction)
   * [Languages](#languages)
   * [Managed Hosting Services](#managed-hosting-services)
 * [Knowledge Engineering](#knowledge-engineering)
@@ -74,6 +75,10 @@
 * [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
 * [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
 * [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
+
+### Graph Construction
+
+* [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) - Knowledge graph generation system with RML mappings.
 
 ### Languages
 

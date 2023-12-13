@@ -60,6 +60,7 @@
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data.
+* [Oxigraph](https://github.com/oxigraph/oxigraph) - a light wight triple store written in Rust.
 
 ### Graph Computing Frameworks
 

@@ -49,6 +49,7 @@
 * [Weaver](https://www.weaverhq.com/) - A graph database built on top of Postgres, which allows you to query the dataset in both SQL and graph query languages including SQL, SPARQL, and GraphQL.
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
+* [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
 
 
 ### Triple Stores

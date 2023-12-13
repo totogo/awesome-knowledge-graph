@@ -47,6 +47,9 @@
 * [HugeGraph](https://github.com/hugegraph/hugegraph) - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX. 
 * [Diffbot](https://diffbot.com/products/knowledge-graph) - One of three Western entities to crawl a majority of the web. Largest commercially available knowledge graph. 
 * [Weaver](https://www.weaverhq.com/) - A graph database built on top of Postgres, which allows you to query the dataset in both SQL and graph query languages including SQL, SPARQL, and GraphQL.
+* [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
+* [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
+
 
 ### Triple Stores
 

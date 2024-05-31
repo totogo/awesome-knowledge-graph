@@ -75,6 +75,7 @@
 
 * [AntV G6](https://github.com/antvis/g6) - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 * [Graphistry](https://github.com/graphistry/pygraphistry) - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
+* [yFiles Graphs for Jupyter](https://github.com/yWorks/yfiles-jupyter-graphs) - Jupyter Notebook plugin for the interactive visualization of (knowledge) graphs and diagrams in Jupyter Notebooks, Google Colab, and similar.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
 * [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.

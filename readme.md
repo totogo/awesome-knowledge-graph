@@ -51,25 +51,28 @@
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
 
-
 ### Triple Stores
 
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
+* [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
 * [Copernic](https://git.sr.ht/~amirouche/copernic) - Data, and its history, via change requests at scale
 * [Eclipse RDF4J](http://rdf4j.org/) - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
-* [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data.
 * [Oxigraph](https://github.com/oxigraph/oxigraph) - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 
 ### Graph Computing Frameworks
 
 * [Apache Giraph](https://giraph.apache.org/) - an iterative graph processing system built for high scalability
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
-* [Tencent Plato](https://github.com/tencent/plato) - a fast distributed graph computation and machine learning framework used by WeChat. 
+* [DotNetRDF](https://dotnetrdf.org/) - a complete library for parsing, managing, querying and writing RDF
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - a distributed graph analytics framework based on Apache Flink
+* [RDFLib](https://rdflib.dev) - a pure Python RDF manipulation toolkit
+* [Redland C RDF](https://librdf.org/) - a set of free software C libraries that provide support for the Resource Description Framework (RDF)
+* [Tencent Plato](https://github.com/tencent/plato) - a fast distributed graph computation and machine learning framework used by WeChat
 
 ### Graph Visualization
 

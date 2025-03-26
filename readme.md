@@ -80,7 +80,8 @@
 * [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
 * [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
 * [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
-* [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
+* [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs.
+* [yFiles](https://www.yfiles.com/) - Commercial JavaScript/TypeScript library for the creation of graph and diagram applications with a vast selection of automatic layout algorithms and many visualization options ([demos](https://www.yfiles.com/demos)).
 
 ### Graph Construction
 

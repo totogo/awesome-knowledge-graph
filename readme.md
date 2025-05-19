@@ -62,6 +62,7 @@
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data.
 * [Oxigraph](https://github.com/oxigraph/oxigraph) - a light wight triple store written in Rust.
+* [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - an RDFLib-backed store for querying compressed RDF in COTTAS format.
 
 ### Graph Computing Frameworks
 

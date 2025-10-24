@@ -183,6 +183,10 @@
 * [Graph Day](http://graphday.com/) - an Independent Graph Conference from the Data Day folks
 * [Connected Data London](https://connected-data.london/) - Connected Data London brings together 160+ Artificial Intelligence, Semantic Technology, Linked Data and Graph Database innovators, thought leaders and practitioners annually in one great conference. The conference has expanded its themes and tracks, from its roots as the primary conference for Knowledge Graphs, Linked Data and Semantics to include related Graph Database and AI / Machine Learning technologies and practical use cases.
 
+  ## Books
+
+* [Knowledge Graphs and LLMs in Action](https://www.manning.com/books/knowledge-graphs-and-llms-in-action) - a book that shows you how to introduce knowledge graphs constructed from structured and unstructured sources into LLM-powered applications and RAG pipelines.  
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.  

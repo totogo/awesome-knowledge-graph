@@ -87,6 +87,7 @@
 
 ### Graph Construction
 
+* [Cognee](https://github.com/topoteretes/cognee) - Open-source platform for building knowledge graphs from unstructured data using LLMs. Combines graph and vector databases for AI agent memory.
 * [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) - Knowledge graph generation system with RML mappings.
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.

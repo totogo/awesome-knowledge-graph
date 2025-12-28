@@ -95,7 +95,6 @@
 
 ### Graph Construction
 
-* [eccenca Corporate Memory](https://eccenca.com/products/enterprise-knowledge-graph-platform-corporate-memory) - Knowledge graph platform for building/constructing, exporing and consuming knowledge graphs.
 * [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) - Knowledge graph generation system with RML mappings.
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.
@@ -193,10 +192,9 @@
 
 ## Conferences
 
-* [Connected Data London](https://connected-data.london/) - Connected Data London brings together 160+ Artificial Intelligence, Semantic Technology, Linked Data and Graph Database innovators, thought leaders and practitioners annually in one great conference. The conference has expanded its themes and tracks, from its roots as the primary conference for Knowledge Graphs, Linked Data and Semantics to include related Graph Database and AI / Machine Learning technologies and practical use cases.
 * [Graph Connect](http://graphconnect.com/) - powered by Neo4j
 * [Graph Day](http://graphday.com/) - an Independent Graph Conference from the Data Day folks
-* [KGC - The Knowledge Graph Conference](https://www.knowledgegraph.tech/) - Bringing together leaders across industry sectors to cover the latest in innovation and adoption of knowledge technologies in finance, healthcare, drug discovery, privacy, cyber, media, education, supply chain, inventory management, e-commerce, personal knowledge graphs, visualization, recommender systems, law firms, real estate, and much more.
+* [Connected Data London](https://connected-data.london/) - Connected Data London brings together 160+ Artificial Intelligence, Semantic Technology, Linked Data and Graph Database innovators, thought leaders and practitioners annually in one great conference. The conference has expanded its themes and tracks, from its roots as the primary conference for Knowledge Graphs, Linked Data and Semantics to include related Graph Database and AI / Machine Learning technologies and practical use cases.
 
 ## Books
 

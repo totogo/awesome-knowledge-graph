@@ -4,23 +4,30 @@
 
 ## Contents
 
-* [Infrastructure](#infrastructure)
-  * [Graph Databases](#graph-databases)
-  * [Triple Stores](#triple-stores) 
-  * [Graph Computing Frameworks](#graph-computing-frameworks)
-  * [Graph Visualization](#graph-visualization)
-  * [Graph Construction](#graph-construction)
-  * [Languages](#languages)
-  * [Managed Hosting Services](#managed-hosting-services)
-* [Knowledge Engineering](#knowledge-engineering)
-  * [Knowledge Fusion](#knowledge-fusion)
-* [Knowledge Graph Dataset](#knowledge-graph-dataset)
-  * [General](#general)
-  * [Semantic Network](#semantic-network)
-  * [Academic](#academic)
-* [Learning Materials](#learning-materials)
-  * [Official Documentations](#official-documentations)
-  * [Community Effort](#community-effort)
+- [Awesome Knowledge Graph ](#awesome-knowledge-graph-)
+  - [Contents](#contents)
+  - [Infrastructure](#infrastructure)
+    - [Graph Databases](#graph-databases)
+    - [Triple Stores](#triple-stores)
+    - [Graph Computing Frameworks](#graph-computing-frameworks)
+    - [Graph Visualization](#graph-visualization)
+    - [Graph Construction](#graph-construction)
+    - [Languages](#languages)
+    - [Managed Hosting Services](#managed-hosting-services)
+  - [Knowledge Engineering](#knowledge-engineering)
+    - [Knowledge Fusion](#knowledge-fusion)
+  - [Knowledge Graph Dataset](#knowledge-graph-dataset)
+    - [General](#general)
+    - [Semantic Network](#semantic-network)
+    - [Academic \& Research](#academic--research)
+    - [Other Domain](#other-domain)
+  - [Learning Materials](#learning-materials)
+    - [Official Documentations](#official-documentations)
+    - [Community Effort](#community-effort)
+  - [Conferences](#conferences)
+  - [Books](#books)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Infrastructure
 
@@ -87,7 +94,6 @@
 
 ### Graph Construction
 
-* [eccenca Corporate Memory](https://eccenca.com/products/enterprise-knowledge-graph-platform-corporate-memory) - Knowledge graph platform for building/constructing, exporing and consuming knowledge graphs.
 * [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) - Knowledge graph generation system with RML mappings.
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.

@@ -4,23 +4,31 @@
 
 ## Contents
 
-* [Infrastructure](#infrastructure)
-  * [Graph Databases](#graph-databases)
-  * [Triple Stores](#triple-stores) 
-  * [Graph Computing Frameworks](#graph-computing-frameworks)
-  * [Graph Visualization](#graph-visualization)
-  * [Graph Construction](#graph-construction)
-  * [Languages](#languages)
-  * [Managed Hosting Services](#managed-hosting-services)
-* [Knowledge Engineering](#knowledge-engineering)
-  * [Knowledge Fusion](#knowledge-fusion)
-* [Knowledge Graph Dataset](#knowledge-graph-dataset)
-  * [General](#general)
-  * [Semantic Network](#semantic-network)
-  * [Academic](#academic)
-* [Learning Materials](#learning-materials)
-  * [Official Documentations](#official-documentations)
-  * [Community Effort](#community-effort)
+- [Awesome Knowledge Graph ](#awesome-knowledge-graph-)
+  - [Contents](#contents)
+  - [Infrastructure](#infrastructure)
+    - [Graph Databases](#graph-databases)
+    - [Triple Stores](#triple-stores)
+    - [Graph Computing Frameworks](#graph-computing-frameworks)
+    - [Graph Visualization](#graph-visualization)
+    - [Graph Construction](#graph-construction)
+    - [Languages](#languages)
+    - [Managed Hosting Services](#managed-hosting-services)
+  - [Knowledge Engineering](#knowledge-engineering)
+    - [Knowledge Fusion](#knowledge-fusion)
+  - [Knowledge Graph Dataset](#knowledge-graph-dataset)
+    - [General](#general)
+    - [Semantic Network](#semantic-network)
+    - [Academic \& Research](#academic--research)
+    - [Other Domain](#other-domain)
+  - [Learning Materials](#learning-materials)
+    - [Official Documentations](#official-documentations)
+    - [Community Effort](#community-effort)
+    - [E-Learning](#e-learning)
+  - [Conferences](#conferences)
+  - [Books](#books)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Infrastructure
 
@@ -178,6 +186,11 @@
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
 
+### E-Learning
+
+* [GraphAcademy @ Neo4j](https://graphacademy.neo4j.com/) - GraphAcademy — Free, Self-Paced, Hands-on Online Training.
+* [Semantic Web Technologies @ HPI](https://open.hpi.de/courses/semanticweb?locale=en) - In this course, you will learn the fundamentals of Semantic Web technologies. You will learn how to represent knowledge and how to access and benefit from semantic data on the Web.
+
 ## Conferences
 
 * [Connected Data London](https://connected-data.london/) - Connected Data London brings together 160+ Artificial Intelligence, Semantic Technology, Linked Data and Graph Database innovators, thought leaders and practitioners annually in one great conference. The conference has expanded its themes and tracks, from its roots as the primary conference for Knowledge Graphs, Linked Data and Semantics to include related Graph Database and AI / Machine Learning technologies and practical use cases.
@@ -185,7 +198,7 @@
 * [Graph Day](http://graphday.com/) - an Independent Graph Conference from the Data Day folks
 * [KGC - The Knowledge Graph Conference](https://www.knowledgegraph.tech/) - Bringing together leaders across industry sectors to cover the latest in innovation and adoption of knowledge technologies in finance, healthcare, drug discovery, privacy, cyber, media, education, supply chain, inventory management, e-commerce, personal knowledge graphs, visualization, recommender systems, law firms, real estate, and much more.
 
-  ## Books
+## Books
 
 * [Knowledge Graphs and LLMs in Action](https://www.manning.com/books/knowledge-graphs-and-llms-in-action) - a book that shows you how to introduce knowledge graphs constructed from structured and unstructured sources into LLM-powered applications and RAG pipelines.  
 

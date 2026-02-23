@@ -115,6 +115,7 @@
 * [WoordLift](https://wordlift.io/) - Easy-to-use SEO-focused Graph Database hosting for web and e-commerce websites running on Apache Marmotta. 
 * [Baidu Knowledge Graph @ Baidu AI Platform](https://ai.baidu.com/solution/kgaas) - One-stop AI platform to build knowledge graph and its applications. 
 * [Graphistry](https://github.com/graphistry/pygraphistry) - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
+* [ODEI World Model](https://api.odei.ai) - Constitutional knowledge graph as a service for AI agents. Persistent 91-node Neo4j graph across 6 semantic domains with 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
 
 ## Knowledge Engineering
 

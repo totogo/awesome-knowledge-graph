@@ -88,6 +88,7 @@
 
 ### Graph Construction
 
+* [Code-Graph-RAG](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing and Memgraph. Supports 11 programming languages and enables natural language querying of code structure via an MCP server.
 * [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) - Knowledge graph generation system with RML mappings.
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.

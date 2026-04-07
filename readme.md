@@ -2,6 +2,7 @@
 
 > A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for knowledge graph construction workflow orchestration, automated entity relationship management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [Infrastructure](#infrastructure)

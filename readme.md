@@ -164,6 +164,7 @@
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
+* [DealerMax](https://dealermax.app) - Italian automotive knowledge graph publishing Wikidata-linked AutoDealer + Vehicle JSON-LD across 100+ dealer sites, with a 212-term automotive glossary (DefinedTerm), 139 FAQ entries, and C2PA-signed AI media. MCP server [`app.dealermax/public-search`](https://registry.modelcontextprotocol.io/v0.1/servers?search=app.dealermax) on the official Anthropic Model Context Protocol registry.
 
 ## Learning Materials
 

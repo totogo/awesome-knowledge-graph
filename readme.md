@@ -38,6 +38,7 @@
 * [TypeDB](https://vaticle.com/) - a database with a rich and logical type system. 
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
+* [KGLite](https://kglite.readthedocs.io) - Embedded knowledge graph for Python written in Rust. Speaks openCypher, scales from in-memory to mmap to disk-backed CSR.
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
 * [Neo4j](http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin) - OLTP graph database
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks

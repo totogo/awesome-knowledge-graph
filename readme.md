@@ -51,6 +51,7 @@
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
+* [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted agent memory server with knowledge graph support for cross-agent knowledge sharing. Stores memories with entity relationships and decay-weighted recall. MCP-native, written in Rust.
 
 ### Triple Stores
 

@@ -188,6 +188,11 @@
 
 * [Knowledge Graphs and LLMs in Action](https://www.manning.com/books/knowledge-graphs-and-llms-in-action) - a book that shows you how to introduce knowledge graphs constructed from structured and unstructured sources into LLM-powered applications and RAG pipelines.  
 
+
+## APIs and Services
+
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for autonomous graph reasoning and data enrichment agents on Solana. MCP server for knowledge graph pipeline agent identity verification. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.  

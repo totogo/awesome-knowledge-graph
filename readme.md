@@ -127,7 +127,10 @@
 * [Dedupe](https://github.com/dedupeio/dedupe) - dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
 * [LIMES](https://github.com/dice-group/LIMES) - Link Discovery Framework for Metric Spaces.
 
-## Knowledge Graph Dataset
+## Knowledge Graph
+
+- [Mimir](https://github.com/tcconnally/mimir) - Persistent memory engine for AI agents. 23 MCP tools, structured entities, sqlite-vec semantic search.
+ Dataset
 
 ### General
 

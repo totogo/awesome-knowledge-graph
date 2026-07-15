@@ -51,6 +51,7 @@
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
+* [StromaDB](https://github.com/katsut/stromadb) - Real-time graph database for LLM/GraphRAG retrieval, combining a typed property graph, built-in vector search and bitemporal as-of queries. Written in Rust.
 
 ### Triple Stores
 

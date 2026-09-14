@@ -85,7 +85,7 @@
 * [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
 * [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
 * [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
-* [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) - Command-line tool that turns RDF/OWL files into one self-contained HTML page with interactive 3D and 2D graph views, legend filters and node cards; works offline.
+* [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) - Command-line tool and Python library that turns RDF/OWL files or a SPARQL CONSTRUCT result into one self-contained HTML page with interactive 3D and 2D graph views, legend filters and node cards; works offline.
 
 ### Graph Construction
 

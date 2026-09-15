@@ -74,6 +74,7 @@
 * [RDFLib](https://rdflib.dev) - a pure Python RDF manipulation toolkit
 * [Redland C RDF](https://librdf.org/) - a set of free software C libraries that provide support for the Resource Description Framework (RDF)
 * [Tencent Plato](https://github.com/tencent/plato) - a fast distributed graph computation and machine learning framework used by WeChat
+* [open-kgo](https://github.com/mloda-ai/open-kgo) - a Python framework giving one API over nine knowledge-graph backend families, with ontology validation that rejects semantically invalid traversals
 
 ### Graph Visualization
 

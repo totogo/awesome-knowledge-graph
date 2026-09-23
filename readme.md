@@ -40,6 +40,7 @@
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
 * [Neo4j](http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin) - OLTP graph database
+* [neo4j-world](https://github.com/jajmangold/neo4j-world) - Neo4j-backed narrative world simulation with drama-state relationships (trust, resentment, attraction as numerical edge weights), event taxonomy, and LLM memory compression
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine

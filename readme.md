@@ -178,6 +178,9 @@
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
 * [Ontology Training](https://tesseract.academy/courses/ontology-training-knowledge-graphs-complete-course/) - free 45-lesson course on RDF, OWL 2, SPARQL and SHACL, with the syllabus published as machine-readable RDF at [ontology-curriculum](https://github.com/fabio-rovai/ontology-curriculum)
+* [Chain of Thought: Hallucinations Are a Data Architecture Problem](https://chainofthought.show/podcast/55-hallucinations-are-a-data-architecture-problem-sudhir-hasbe-neo4j/) - podcast interview with Neo4j CPO Sudhir Hasbe on GraphRAG, context graphs and multi-hop reasoning for enterprise AI
+* [The GraphRAG Curator: Jessica Talisman on Enterprise AI](https://graphrag.info/2026/03/12/jessica-talisman-a-library-science-approach-to-enterprise-ai/) - interview connecting knowledge graphs, library science and enterprise information architecture
+* [InfoQ: Nikolaos Vasiloglou on Knowledge Graphs and GraphRAG](https://www.infoq.com/podcasts/knowledge-graphs-graph-rag/) - podcast on graph-based retrieval and analytics applications
 
 ## Conferences
 

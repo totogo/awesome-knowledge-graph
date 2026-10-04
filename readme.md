@@ -164,6 +164,7 @@
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
+* [Vertical-Driven Architectures](https://huggingface.co/datasets/CodeNinjatools/vertical-driven-architectures) - Object models for physical AI in ports, utilities, mills, plants and construction sites: typed objects, properties, status vocabularies and typed links per design, with each design's model register, cost lines and full paper. CC BY 4.0.
 
 ## Learning Materials
 

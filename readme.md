@@ -188,6 +188,7 @@
   ## Books
 
 * [Knowledge Graphs and LLMs in Action](https://www.manning.com/books/knowledge-graphs-and-llms-in-action) - a book that shows you how to introduce knowledge graphs constructed from structured and unstructured sources into LLM-powered applications and RAG pipelines.  
+* [RAG + Knowledge Graph Master Course](https://www.thequery.in/books/rag-kg-master-course) - a free online book by Addy covering retrieval, knowledge graphs, hybrid RAG, and production projects; available as HTML and EPUB without registration.
 
 ## Contribute
 

@@ -63,6 +63,7 @@
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Oxigraph](https://github.com/oxigraph/oxigraph) - a light wight triple store written in Rust.
 * [CLever](https://github.com/ad-freiburg/qlever) - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Apache Jena Fuseki GeoSPARQL](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - Ready-to-run Docker image of Apache Jena Fuseki with GeoSPARQL and full-text search enabled.
 
 ### Graph Computing Frameworks
 
@@ -85,6 +86,7 @@
 * [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
 * [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
 * [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
+* [yasgui-graph-plugin](https://github.com/Matdata-eu/yasgui-graph-plugin) - Shows SPARQL CONSTRUCT and DESCRIBE results as an interactive force-directed graph in YASGUI and MatGUI.
 
 ### Graph Construction
 
@@ -121,6 +123,9 @@
 
 * [YAGA-NAGA](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/) - Harvesting, Searching, and Ranking Knowledge from the Web
 * [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to help bootstrap a new KG
+* [rdf-compare](https://github.com/Matdata-eu/rdf-compare) - Fast CLI that diffs two RDF files into an RDF dataset with one named graph per side, and shows the difference in a web view.
+* [rdf-rules-playground](https://github.com/Matdata-eu/rdf-rules-playground) - Try SHACL rules (sh:TripleRule, sh:SPARQLRule) in the browser or from the command line, and see which rule inferred each triple.
+* [shacl-report](https://github.com/Matdata-eu/shacl-report) - Validates RDF with SHACL, or reads any validator's report, and shows the result in a readable web view or a standalone HTML report for CI.
 
 ### Knowledge Fusion
 

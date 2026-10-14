@@ -161,6 +161,7 @@
 
 * [Lynx](https://lynx-project.eu/) - an ecosystem of smart cloud services to better manage compliance, based on a Legal Knowledge Graph (LKG) which integrates and links heterogeneous compliance data sources including legislation, case law, standards and other private contracts.
 * [ResearchSpace](https://researchspace.org/) - A culture heritage knowledge graph from the British Museum. 
+* [BJJGraph](https://bjjgraph.org) - A knowledge graph of Brazilian jiu-jitsu: 133 positions and 1,315 techniques, each edge with authored gi and no-gi attempt and outcome probabilities. The full graph is published as JSON in the [repo](https://github.com/diogoseca/bjjgraph).
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.

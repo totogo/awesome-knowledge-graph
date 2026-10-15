@@ -121,6 +121,7 @@
 
 * [YAGA-NAGA](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/) - Harvesting, Searching, and Ranking Knowledge from the Web
 * [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to help bootstrap a new KG
+* [Lu](https://github.com/dialectforge/lu) - Experimental persistent AI in Rust that learns into a knowledge graph and answers by spreading activation over it, with a time-aware bond layer. Research code (AGPL-3.0).
 
 ### Knowledge Fusion
 

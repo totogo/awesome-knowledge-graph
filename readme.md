@@ -51,6 +51,7 @@
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
+* [Okto Grafx](https://github.com/OktoLabsAI/okto-grafx) - Embedded, local-first graph database for Python with snapshot isolation and WAL-backed durability. Source-available (Elastic License 2.0).
 
 ### Triple Stores
 

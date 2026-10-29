@@ -92,6 +92,7 @@
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.
 * [Termboard](https://termboard.com/) - A very simple graphical editor to create Terms and Relations. It can use ChatGPT, Google Bard or any other chatbot. Ideal for beginners wanting to make and share quick sketches.
+* [Okto Neuron](https://github.com/OktoLabsAI/okto-neuron) - Local-first knowledge graph memory for agents, with cited sources and an MCP server. Source-available (Elastic License 2.0).
 
 ### Languages
 

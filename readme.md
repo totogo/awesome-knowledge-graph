@@ -162,7 +162,8 @@
 * [Lynx](https://lynx-project.eu/) - an ecosystem of smart cloud services to better manage compliance, based on a Legal Knowledge Graph (LKG) which integrates and links heterogeneous compliance data sources including legislation, case law, standards and other private contracts.
 * [ResearchSpace](https://researchspace.org/) - A culture heritage knowledge graph from the British Museum. 
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
-* [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
+* [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more.
+* [Islam Museum](https://islam.museum) - A knowledge graph of Islamic history with 46,793 sourced entries (people, places, events, ideas, objects) in Arabic, English and Urdu. The data is published CC0 in a public repository (https://github.com/amado2k5/islam-museum) and archived at Zenodo (DOI: 10.5281/zenodo.23692511).
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
 
 ## Learning Materials

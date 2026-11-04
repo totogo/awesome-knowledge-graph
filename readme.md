@@ -164,6 +164,7 @@
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
+* [Human Lineage](https://humanlineage.org) - A global genealogical knowledge graph of historical people (parent-child and couple relations, life facts, Wikidata/VIAF/GND identifiers), based on GEDCOM-X; an open data dump of 2.7M deceased persons is on Zenodo (CC BY-SA 4.0).
 
 ## Learning Materials
 

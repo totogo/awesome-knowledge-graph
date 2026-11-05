@@ -51,6 +51,7 @@
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
+* [TerminusDB](https://github.com/terminusdb/terminusdb) - Knowledge graph database with git-like version control. Branch, merge and diff any commit.
 
 ### Triple Stores
 

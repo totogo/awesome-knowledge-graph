@@ -60,6 +60,7 @@
 * [Copernic](https://git.sr.ht/~amirouche/copernic) - Data, and its history, via change requests at scale
 * [Eclipse RDF4J](http://rdf4j.org/) - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
+* [Quipu](https://github.com/intigraph/quipu) - bitemporal RDF knowledge graph store in Rust on SQLite, with SPARQL, SHACL checks on writes before they commit, per-fact provenance, built-in change events, and shareable knowledge packs that other stores can import and merge; runs as a CLI, server, MCP server or library, and in the browser via WebAssembly
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
 * [Oxigraph](https://github.com/oxigraph/oxigraph) - a light wight triple store written in Rust.
 * [CLever](https://github.com/ad-freiburg/qlever) - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server

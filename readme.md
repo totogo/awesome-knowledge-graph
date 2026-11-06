@@ -37,6 +37,7 @@
 * [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)
 * [TypeDB](https://vaticle.com/) - a database with a rich and logical type system. 
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
+* [HydraDB](https://hydradb.com/) - Knowledge graphs for AI agents, powered by a fast, scalable graph database on object storage.
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
 * [Neo4j](http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin) - OLTP graph database

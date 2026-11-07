@@ -92,6 +92,7 @@
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.
 * [Termboard](https://termboard.com/) - A very simple graphical editor to create Terms and Relations. It can use ChatGPT, Google Bard or any other chatbot. Ideal for beginners wanting to make and share quick sketches.
+* [Helix Foundry](https://github.com/HelixDB/helix-foundry) - open-source (Apache-2.0) tool that connects databases, apps and documents, has an agent draft an ontology over them, and builds one knowledge graph you can explore and query, with every value traced to its source.
 
 ### Languages
 

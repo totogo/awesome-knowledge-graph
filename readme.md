@@ -51,6 +51,7 @@
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
+* [HelixDB](https://github.com/HelixDB/helix-db) - Open-source (Apache-2.0) OLTP graph database in Rust with native vector and full-text search, so one query can combine graph traversal, similarity and BM25 for agent memory and GraphRAG.
 
 ### Triple Stores
 

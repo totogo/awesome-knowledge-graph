@@ -51,6 +51,7 @@
 * [Kuzu](https://kuzudb.com/) - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.
 * [CogDB](https://cogdb.io/) - A Micro Graph Database for Python Applications.
 * [TuGraph](https://www.tugraph.org/) - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.
+* [Omnigraph](https://github.com/ModernRelay/omnigraph) - Open-source (MIT) typed property graph database in Rust that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query.
 
 ### Triple Stores
 

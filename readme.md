@@ -164,6 +164,7 @@
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
+* [AI Atlas Nexus](https://github.com/IBM/ai-atlas-nexus) - An open-source knowledge graph for AI risk governance that uses a LinkML ontology to unify risk taxonomies (NIST AI RMF, OWASP, EU AI Act, MIT) into a single graph linking risks, benchmarks, datasets, and mitigations. Supports Cypher export for Neo4j. From IBM Research.
 
 ## Learning Materials
 

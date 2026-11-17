@@ -164,6 +164,7 @@
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
+* [Islam Museum](https://doi.org/10.5281/zenodo.23692511) - Open knowledge graph of Islamic history: tens of thousands of sourced records (people, places, events, concepts, objects and texts) as YAML with a free JSON API; data CC0, prose in Arabic, English and Urdu.
 
 ## Learning Materials
 

@@ -121,6 +121,7 @@
 
 * [YAGA-NAGA](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/) - Harvesting, Searching, and Ranking Knowledge from the Web
 * [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to help bootstrap a new KG
+* [ohi](https://ohi.dev/) - Open registry and package manager for 840+ ontologies; download them as OWL, RDFS, SHACL, Ossie or LinkML for use in knowledge graphs.
 
 ### Knowledge Fusion
 

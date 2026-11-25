@@ -85,6 +85,7 @@
 * [Cytoscape](https://cytoscape.org/) - Open source graph visualization platform software runs on Windows, Mac and Linux.
 * [Cytoscape.js](https://js.cytoscape.org/) - Graph visualization tookit for JavaScript.
 * [Sigma.js](https://www.sigmajs.org/) - JavaScript library aimed at visualizing larger graphs. 
+* [Thought-Net](https://github.com/kento-miyazaki/thought-net) - Single-file 3D force graph that stacks a Markdown vault, active projects, and open editor sessions on the Z axis, with recency-based influence radius and serendipity "thaw" suggestions. Read-only, no LLM.
 
 ### Graph Construction
 

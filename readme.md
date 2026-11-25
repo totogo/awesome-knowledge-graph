@@ -164,6 +164,7 @@
 * [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.
 * [DrugBank](https://go.drugbank.com/) - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. 
 * [STRING](https://string-db.org/) - A database of known and predicted protein-protein interactions.
+* [KG4ESG: The ESG Knowledge Graph Atlas](https://www.preprints.org/manuscript/202602.1970) - An Environmental, Social, and Governance (ESG) knowledge graph atlas integrating ESG standards, frameworks, and entities, built with LLM-empowered extraction.
 
 ## Learning Materials
 
